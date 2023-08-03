@@ -32,6 +32,8 @@ The following DBT models are created:
     stg_orders - Adds computed columns for order total and discount amount
     mart_denorm - Denormalized table joining products, suppliers, categories, orders, customers etc.
     mart_partitioned - Partitioned copy of orders table by year (2020, 2021, 2022)
+## Lineage Graph
+![dbt-dag](https://github.com/nayyarabernardo/pipeline-dbt/blob/main/dbt-dag(2).png)
 
 ## Usage Instructions
 
