@@ -1,4 +1,4 @@
-# DBT Project for Northwind 
+# DBT Project - Northwind database
 
 
 This DBT project ingests data from the Northwind database into an Amazon Redshift data warehouse and transforms it into analytics tables.
